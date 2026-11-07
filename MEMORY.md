@@ -5,7 +5,7 @@
 - Public GitHub repository: https://github.com/bzcr/YD-one
 - Intended initial scope: reusable MiniMax H3 prompt templates and selected verified examples.
 - Do not include source images/videos, private local paths, or unverified drafts by default.
-- 2026-11-07: Initial H3 content is committed locally as `c83cf3b` in `D:\codex\YD-one`, but is not yet on GitHub. HTTPS push was reset by the network; no cached GitHub credential or SSH key was found.
+- 2026-11-07: Initial H3 content was published to GitHub in commit `db39ac7`. The user authenticated from CMD; the final push reported `Everything up-to-date`, and the local and GitHub `main` commit SHAs matched.
 
 ## Durable Notes
 
